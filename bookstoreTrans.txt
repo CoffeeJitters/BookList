@@ -1,0 +1,26 @@
+add 0321563842 TheC++ProgrammingLanguage BjarneStroustrup 4 10 80.00
+add 0134448237 C++HowToProgram PaulDeitel 10 3 175.00
+add 0132165419 C++HowToProgram PaulDeitel 7 8 176.00
+add 0073383095 DiscreteMathematicsAndItsApplications KennethRosen 7 8 223.39
+add 0133985078 StartingOutWwithProgrammingLogicandDesign TonyGaddis 4 7 127.40
+add 0134448237 C++HowToProgram PaulDeitel 10 2 175.00
+add 1118407813 BeginningProgrammingWithJavaForDummies BarryBurd 4 1 29.99
+add 0128122757 ComputerOrganizationAndDesignRISCVEdition DavidPatterson 1 15 95
+add 0124077263 ComputerOrganizationAndDesignMIPSEdition DavidPatterson 5 5 89.95
+add 0128017333 ComputerOrganizationAndDesignARMEdition DavidPatterson 1 2 94.95
+add 0124077263 ComputerOrganizationAndDesignMIPSEdition DavidPatterson 5 2 89.95
+display
+delete 0128017332
+delete 0073383095
+searchBook C++
+searchBook Science
+searchAuthor PaulDeitel
+searchAuthor Gaddis
+searchAuthor James
+updateQuantity 0128017333 4
+updateQuantity 0128127333 4
+updatePrice 0321563842 72.00
+updatePrice 0128017332 135.00
+sort
+display
+save
